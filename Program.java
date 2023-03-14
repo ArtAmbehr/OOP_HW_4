@@ -1,6 +1,5 @@
 public class Program {
     public static void main(String[] args) {
-        // Работаем с цифрами
         ArrayListClass<Integer> intList = new ArrayListClass<>();
         intList.add(37);
         intList.add(47);
